@@ -4,7 +4,7 @@
 | ROLES        | TAREA                                      | INTEGRANTES        | @ Github          |
 |--------------|---------------------------------------------|--------------------|-------------------|
 | Scrum Master | Creación del repositorio y gestión de accesos | Emilio Alfonso     | @emilioalfonso    |
-| Product Owner| Organización de la estructura               | Joaquin Mela       | @                 |
+| Product Owner| Organización de la estructura               | Joaquin Mela       | @pereyrajoaaa-stack                 |
 | Dev Team     | Búsqueda de la información                  | Erika Lopez        | @eriikailopez4    |
 | Dev Team     | Búsqueda de la información                  | Esteban Vallejos   | @EstebanGV022     |
 
